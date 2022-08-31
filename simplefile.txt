@@ -1,5 +1,11 @@
-Every 
+Not
 Good 
+<<<<<<< HEAD
 alternative
 Deserves
 main
+=======
+day
+Deserves 
+Favor
+>>>>>>> alternative
